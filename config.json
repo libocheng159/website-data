@@ -1,0 +1,163 @@
+{
+  "metaData": {
+    "title": "lbc的个人主页",
+    "description": "Bocheng Li的主页",
+    "keywords": "个人主页, Vue, 前端",
+    "icon": "/favicon.ico"
+  },
+  "avatar": "https://libocheng159.github.io/website-data/img/avatar.jpg",
+  "welcometitle": "Happy every day",
+  "personalInfo": {
+    "name": "Bocheng Li",
+    "school": "WHU CAS",
+    "bio": "我听见我的心脏在跳动",
+    "birthday": "2003-01-14"
+  },
+  "color": {
+    "themecolor": "#FFFFFF",
+    "welcometitlecolor": "#FFFFFF",
+    "turntablecolor1": "#FFFF00",
+    "turntablecolor2": "#00FFFF"
+  },
+  "goals": {
+    "shortTerm": [],
+    "longTerm": []
+  },
+  "brightness": 85,
+  "blur": 5,
+  "background": {
+    "pc": {
+      "type": "pic",
+      "datainfo": {
+        "title": "守岸人眼睛",
+        "preview": "https://libocheng159.github.io/website-data/img/wallpaper/static/守岸人眼睛/image.png",
+        "url": "https://libocheng159.github.io/website-data/img/wallpaper/static/守岸人眼睛/image.png"
+      }
+    },
+    "mobile": {
+      "type": "pic",
+      "datainfo": {
+        "title": "0001",
+        "preview": "https://libocheng159.github.io/website-data/img/wallpaper/static-mobile/0001/image-pre.webp",
+        "url": "https://libocheng159.github.io/website-data/img/wallpaper/static-mobile/0001/image.png"
+      }
+    }
+  },
+  "socialPlatformIcons": [
+    {
+      "icon": "mdi-github",
+      "link": "https://github.com/libocheng159"
+    },
+    {
+      "icon": "mdi-email",
+      "link": "mailto:867902295@qq.com"
+    },
+    {
+      "icon": "mdi-qqchat",
+      "link": "https://libocheng159.github.io/website-data/img/qq.jpg"
+    },
+    {
+      "icon": "mdi-wechat",
+      "link": "https://libocheng159.github.io/website-data/img/wx.jpg"
+    }
+  ],
+  "typeWriterStrings": [
+    "如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
+    "顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
+    "心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
+    "生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
+  ],
+  "musicPlayer": {
+    "server": "netease",
+    "type": "playlist",
+    "id": "410228798"
+  },
+  "wallpaper": {
+    "pic": [
+    ],
+    "picMobile": [
+    ],
+    "video": [
+    ],
+    "videoMobile": [
+    ]
+  },
+  "projectcards": [
+    {
+      "go": "🚀 前往",
+      "img": "https://libocheng159.github.io/website-data/img/sunshine.jpg",
+      "title": "Project 1",
+      "subtitle": "1,000 miles of wonder",
+      "text": "If you see this line, I've managed to get your attention.",
+      "url": "https://leleo.top",
+      "show": false
+    },
+    {
+      "go": "🗂️ 前往",
+      "img": "https://libocheng159.github.io/website-data/img/sunshine.jpg",
+      "title": "Project 2",
+      "subtitle": "2,000 miles of wonder",
+      "text": "If you see this line, I've managed to get your attention.",
+      "url": "https://leleo.top",
+      "show": false
+    },
+    {
+      "go": "📝 前往",
+      "img": "https://libocheng159.github.io/website-data/img/sunshine.jpg",
+      "title": "Project 3",
+      "subtitle": "3,000 miles of wonder",
+      "text": "If you see this line, I've managed to get your attention.",
+      "url": "https://leleo.top",
+      "show": false
+    },
+    {
+      "go": "👍 前往",
+      "img": "https://libocheng159.github.io/website-data/img/sunshine.jpg",
+      "title": "Project 4",
+      "subtitle": "4,000 miles of wonder",
+      "text": "If you see this line, I've managed to get your attention.",
+      "url": "https://leleo.top",
+      "show": false
+    },
+    {
+      "go": "🗃 前往",
+      "img": "https://libocheng159.github.io/website-data/img/sunshine.jpg",
+      "title": "Project 5",
+      "subtitle": "5,000 miles of wonder",
+      "text": "If you see this line, I've managed to get your attention.",
+      "url": "https://leleo.top",
+      "show": false
+    },
+    {
+      "go": "🎨 前往",
+      "img": "https://libocheng159.github.io/website-data/img/sunshine.jpg",
+      "title": "Project 6",
+      "subtitle": "6,000 miles of wonder",
+      "text": "If you see this line, I've managed to get your attention.",
+      "url": "https://leleo.top",
+      "show": false
+    },
+    {
+      "go": "💍 前往",
+      "img": "https://libocheng159.github.io/website-data/img/sunshine.jpg",
+      "title": "Project 7",
+      "subtitle": "7,000 miles of wonder",
+      "text": "If you see this line, I've managed to get your attention.",
+      "url": "https://leleo.top",
+      "show": false
+    },
+    {
+      "go": "🔍 前往",
+      "img": "https://libocheng159.github.io/website-data/img/sunshine.jpg",
+      "title": "Project 8",
+      "subtitle": "8,000 miles of wonder",
+      "text": "If you see this line, I've managed to get your attention.",
+      "url": "https://leleo.top",
+      "show": false
+    }
+  ],
+  "statement": [
+    "备案号：XXICP备123456789号",
+    "Copyright © 2025 Leleo"
+  ]
+}
